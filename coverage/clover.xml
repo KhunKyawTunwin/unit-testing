@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683904660759" clover="3.2.0">
-  <project timestamp="1683904660759" name="All files">
+<coverage generated="1683905476621" clover="3.2.0">
+  <project timestamp="1683905476621" name="All files">
     <metrics statements="23" coveredstatements="22" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="9" elements="37" coveredelements="35" complexity="0" loc="23" ncloc="23" packages="1" files="3" classes="3"/>
     <file name="chunk.js" path="D:\unitTesting\chunk.js">
       <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="9" count="10" type="stmt"/>
-      <line num="13" count="10" type="cond" truecount="4" falsecount="0"/>
-      <line num="14" count="5" type="stmt"/>
-      <line num="16" count="5" type="stmt"/>
-      <line num="20" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
+      <line num="10" count="10" type="stmt"/>
+      <line num="14" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
     </file>
     <file name="function.js" path="D:\unitTesting\function.js">
       <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
