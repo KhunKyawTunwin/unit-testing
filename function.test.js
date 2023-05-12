@@ -42,4 +42,21 @@ test(" User should be mrKhun object", () => {
 
 // Less than and greater than
 
-test("Should be under 1899");
+test("Should be under 1000", () => {
+  const load1 = 500;
+  const load2 = 500;
+  expect(load1 + load2).toBeLessThanOrEqual(1000);
+});
+
+// Regex
+
+test("There is no I in team", () => {
+  expect("tems").not.toMatch(/I/);
+});
+
+//Arrays
+
+test("Array string or value should be in usernames", () => {
+  usernames = ["john", "karen", "admin"];
+  expect(usernames).toContain("admin");
+});
